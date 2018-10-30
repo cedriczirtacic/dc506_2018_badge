@@ -1,0 +1,35 @@
+Cmp-Mod V01 Created by PcbNew   date = 2018 September 14, Friday 13:17:21
+
+BeginCmp
+TimeStamp = 5BA72C23
+Path = /5B9ADF6E
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D8.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA72C12
+Path = /5B9ADF14
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D8.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA72C01
+Path = /5B9ADDE6
+Reference = R2;
+ValeurCmp = 220Ω;
+IdModule  = Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA72BF3
+Path = /5B9ADE75
+Reference = R1;
+ValeurCmp = 220Ω;
+IdModule  = Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+EndListe
